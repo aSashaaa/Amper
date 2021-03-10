@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/aSashaaa/Amper">
     <img src="amper_logo.webp" alt="Logo" width="150" height="150">
   </a>
 
@@ -10,7 +10,7 @@
     Efficience Bot For Everyone.
     Use Amper instead of everything else bot.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aSashaaa/Amper#documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aSashaaa/Amper#demo">View Demo</a>
