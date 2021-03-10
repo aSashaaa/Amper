@@ -1,6 +1,6 @@
 <br />
+<a href="https://github.com/aSashaaa/Amper/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/aSashaaa/Amper?style=for-the-badge"></a>
 <p align="center">
-  <a href="https://github.com/aSashaaa/Amper">
     <img src="amper_logo.webp" alt="Logo" width="150" height="150">
   </a>
 
